@@ -10,3 +10,5 @@ jobs:
         uses: actions/checkout@v2
       - name: Print Hello
         run: echo "hello git reset"
+hello git reset  
+new content  
